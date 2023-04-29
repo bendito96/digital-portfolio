@@ -64,7 +64,7 @@
 
 .educationBody{
   margin-top: 10%; 
-  padding-left: 7% !important;
+  padding-left: 8% !important;
   color: white;
 }
 
@@ -110,7 +110,7 @@
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 100% 320%;
+    background-position: 100% 280%;
     background-repeat: repeat;
     background-size: cover;
   }
