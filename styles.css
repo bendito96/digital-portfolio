@@ -91,6 +91,7 @@
     margin-top: 3%; 
     margin-bottom: 3%;
     margin-left: 2%;
+    
   }
 
 .certificateImages{
@@ -200,6 +201,7 @@ background-color: #000;
   margin-top: 2% !important;
   margin-bottom: 2%;
   font-family: 'Montserrat', sans-serif;
+  padding-left: 4% !important;
   /* padding: 0%; */
 }
 
